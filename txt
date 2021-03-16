@@ -1,0 +1,3 @@
+txt.z
+txt.a
+txt.q
